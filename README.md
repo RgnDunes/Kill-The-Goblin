@@ -15,6 +15,6 @@ You can view my step to step making of game as I've uploaded each file step-wise
  7. Collisions_and_hit_boxes.py
  8. scoring_and_health_bars.py
  9. sound_effects_music_and_more_collisions.py
- 10. final_game.py
+ 10. [final_game.py](https://github.com/Divyanshpythonist/Kill-The-Goblin/blob/master/final_game.py)
  
  It's just a simple game, not a very great stuff but it can be a good beginning.
